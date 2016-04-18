@@ -1,4 +1,4 @@
-.que_show div{
+a{
 	height: 20px;
 	color: white;
 	background: pink;
@@ -7,6 +7,6 @@
 	padding: 10px;
 	font-weight: bold;
 }
-.que_show div.select{
+a.select{
 	background: black;
 }
